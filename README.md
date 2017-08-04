@@ -1,4 +1,4 @@
-Shopizer 2.0.5 (for java 1.8)
+Shopizer 2.0.5   (for java 1.8)
 -------------------
 
 Java open source e-commerce software
